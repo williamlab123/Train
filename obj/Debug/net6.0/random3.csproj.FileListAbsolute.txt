@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.AssemblyInfo.cs
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\programas\random\random3\bin\Debug\net6.0\random3.exe
+C:\Users\willi\Desktop\programas\random\random3\bin\Debug\net6.0\random3.deps.json
+C:\Users\willi\Desktop\programas\random\random3\bin\Debug\net6.0\random3.runtimeconfig.json
+C:\Users\willi\Desktop\programas\random\random3\bin\Debug\net6.0\random3.dll
+C:\Users\willi\Desktop\programas\random\random3\bin\Debug\net6.0\random3.pdb
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.dll
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\refint\random3.dll
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.pdb
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\random3.genruntimeconfig.cache
+C:\Users\willi\Desktop\programas\random\random3\obj\Debug\net6.0\ref\random3.dll
