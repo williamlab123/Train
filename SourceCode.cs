@@ -4,6 +4,8 @@ main();
 
 
 // Version 2.0
+//dotnet 6.0
+
 
 void main()
 {
